@@ -9,4 +9,4 @@ From terminal run command 'mvn clean install' and wait process to finish.
 Open target folder and copy userprovider.war file to <tomcat>/webapps folder.
 Navigate to <tomcat>/bin folder and run 'sh catalina.sh run' command to deploy application.
 
-After application is started open web browser and go to http://localhost:8080/graphiql
+After application is started open web browser and go to http://localhost:8080/userprovider/graphiql
